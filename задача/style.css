@@ -1,0 +1,172 @@
+body, div, h1, h2, h3, p, ul {
+    margin:0px; padding:0px; border:0px; 
+}
+
+body {
+	font-family: Arial, helvetica, sans-serif; 
+	font-size: 65%; 
+}
+
+.container {
+	width: 900px; 
+	margin: 0 auto;
+}
+
+#shapka {
+	overflow: hidden; 
+	background: #FA8072; 
+	padding: 7px 0;  
+}
+
+p#login {
+	float: left; 
+	width: 50%;
+}
+
+p#upd {
+	float: right; 
+	width: 50%; 
+	text-align: right; 
+}
+
+#shapka p {
+	font-size: 1 em; 
+	color: #ebf0e8;
+}
+
+#shapka a {
+	font-size: 1 em; 
+	color: #B22222;
+}
+
+#header {
+	background: #F5DEB3; 
+}
+
+#branding {
+	margin-bottom: 25px; 
+	position: relative;  
+}
+
+h1 {
+	font-family: "Myriad Pro", sans-serif; 
+	color: #8B0000; 
+	font-weight: normal; 
+	font-size: 5em;  
+	padding-top: 20px; 
+}
+
+
+#navigation {
+	background: #E9967A; 
+	overflow: hidden; 
+}
+
+ul#menu {
+	list-style: none;  
+}
+
+ul#menu li {
+	float: left; 	
+	padding-top: 11px; 
+	padding-bottom: 11px; 
+	padding-right: 45px; 
+}
+
+ul#menu li a {
+	font-size: 2em; 
+	text-decoration: none; 
+	color: #8B0000; 
+}
+
+#content {
+	overflow: hidden; 
+}
+
+#posts {
+	float: left; 
+	width: 70%; 
+	margin-top: 30px; 
+}
+
+#sidebar {
+	float: right; 
+	background: #FFE4C4;
+	padding: 20px;  
+}
+
+#sidebar h3 {
+	font-size: 1.7em; 
+	color: DarkRed;	
+	margin-top: 15px; 
+}
+
+#sidebar ul {
+	list-style: none; 
+	margin-left: 20px; 
+}
+
+#sidebar ul li a {
+	font-size: 1.2em; 
+	text-decoration: none;
+	color: FireBrick; 
+}
+
+#posts h2, h3 { 
+	font-size: 2.5em; 
+	color: FireBrick;
+	font-family: "Lucida Grande",  sans-serif;
+}
+
+#posts p {
+	line-height: 1.4em;
+	padding: 8px 0; 
+	font-size: 1.3em;
+	color: #800000; 
+	
+}
+
+#posts small {
+	font-size: 1.2em;
+	color: #A52A2A; 
+}
+
+#posts a {
+	color: Salmon; 	
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#footer {
+	font-size: 1.2em; 
+	background: #FA8072; 
+	margin-top: 30px; 
+	padding-top: 20px; 
+	padding-bottom: 20px; 
+	overflow: hidden; 
+}
+
+#footer p {
+	color:	#F0FFF0;
+	}
+
+#footer h3 {
+	color:	#F0FFF0;
+	font-size: 1.5em;
+}
+
+#footer ul li a {
+	color: #F0FFF0; 
+}
+#links {
+	float: left; 
+	width: 50%; 
+}
+#copyright {
+	float: right;
+	text-align: right;  
+	width: 50%; 
+}
+
+
+
